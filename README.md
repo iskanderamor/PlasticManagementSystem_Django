@@ -1,0 +1,1 @@
+# PlasticManagementSystem_Django
